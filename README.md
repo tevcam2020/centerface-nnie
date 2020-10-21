@@ -2,7 +2,7 @@
 
 训练代码参考DBface,此代码所用模型进行了重新训练，代码使用C++ opencv方式编写，简洁易用。
 
-#### Performance
+#### 性能
 
 Hi3516cv500:
 
@@ -19,7 +19,7 @@ WiderFace:
 | Medium | 91   |
 | Hard   | 78   |
 
-#### Result:
+#### 结果演示:
 
 ![image](./data/test.jpg)
 

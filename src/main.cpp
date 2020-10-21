@@ -1,23 +1,9 @@
 #include <iostream>
-#include <sys/time.h>
 #include <opencv2/opencv.hpp>
 #include "centerface.h"
 
 using namespace cv;
 using namespace std;
-
-
-unsigned long get_cur_time(void)
-{
-    struct timeval tv;
-    unsigned long ts;
-
-    gettimeofday(&tv,NULL);
-
-    ts=tv.tv_sec*1000000+tv.tv_usec;
-    return ts;
-}
-
 
 int main(int argc, char *argv[])
 {
