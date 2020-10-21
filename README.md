@@ -19,4 +19,4 @@ WiderFace:
 
 #### Result:
 
-![image](./imgs/test.jpg)
+![image](./data/test.jpg)
