@@ -24,6 +24,13 @@ WiderFace:
 ![image](./data/test.jpg)
 
 
+QQ Group: 
+![image](./data/qq-group.jpeg)
+
+
+Wechat: 
+![image](./data/wechat.jpeg)
+
 
 商务合作联系：tevcam2020@163.com
 
