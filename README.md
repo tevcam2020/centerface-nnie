@@ -24,11 +24,15 @@ WiderFace:
 ![image](./data/test.jpg)
 
 
-QQ Group: 
+##### QQ Group:1164802745
+
+
 ![image](./data/qq-group.jpeg)
 
 
-Wechat: 
+##### Wechat: xzmh321
+
+
 ![image](./data/wechat.jpeg)
 
 
